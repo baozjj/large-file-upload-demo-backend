@@ -48,6 +48,9 @@ npm run cert
 127.0.0.1 u1.local.com
 127.0.0.1 u2.local.com
 127.0.0.1 u3.local.com
+127.0.0.1 u4.local.com
+127.0.0.1 u5.local.com
+127.0.0.1 u6.local.com
 ```
 
 ### 4.4 启动服务
